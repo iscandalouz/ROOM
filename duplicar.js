@@ -324,7 +324,7 @@ async function monitorar() {
     }
 
     // Espera 1 min antes do próximo ciclo
-    await new Promise(r => setTimeout(r, 60 * 1000));
+    await new Promise(r => setTimeout(r, 60 * 1));
   }
 }
 
