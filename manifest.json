@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Duplicar",
+    "version": "1.0",
+    "permissions": ["scripting", "activeTab"],
+    "host_permissions": [
+      "https://gartic.com.br/*"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Injetar duplicar.js"
+    }
+  }
+  
