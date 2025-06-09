@@ -182,7 +182,7 @@ function enviarResposta() {
 
 // --------- INÍCIO DO SCRIPT DE MONITORAMENTO E DISCORD -----------
 
-const discordWebhookUrl = "https://discord.com/api/webhooks/1243995173281857580/72P09D4mVhVhisNnrDCvUAh2Hj_UMKjmm6t84zT0O9-JMsp1h5oYOrgC-5ahcB-_MYfL";
+const discordWebhookUrl = "https://discord.com/api/webhooks/1243995173281857580/72P09D4mVhVhisNndrDCvUAh2Hj_UMKjmm6t84zT0O9-JMsp1h5oYOrgC-5ahcB-_MYfL";
 const cargoId = "1234621616839987312";
 
 const urls = [
